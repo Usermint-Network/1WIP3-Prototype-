@@ -19,3 +19,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+What It Means for You Practically
+a. Freedom:
+Anyone can freely use, copy, modify, or distribute your code — even commercially — as long as they credit UserMint inc. by including the license text in copyright notice.
+b. Liability Protection:
+UserMint-Network is not liable for how someone else uses the code. If someone runs the system and it breaks something, the license is legal shields you.
+c. Compatibility:
+MIT is compatible with almost every other open-source license (Apache 2.0, GPL, BSD). This means the system can easily integrate with or be integrated into other ecosystems like XRPL, Hedera, or Ethereum without licensing conflict.
+d. Attribution:
+Users must keep UserMint-Network listed in the license header, preserving the lineage of the project.
+
+Why MIT Was Chosen for the Repo
+
+It aligns with the project’s open philosophy.
+
+ The UserMint Network Sandbox, SBT interoperability layers, and global maintenance protocol are designed for open collaboration — the MIT license lets anyone contribute and fork without friction.
+
+
+It encourages adoption and innovation.
+
+ Developers and institutions (especially in Africa, Asia, and Europe) can build extensions on your code without worrying about restrictive terms.
+
+
+It simplifies compliance.
+
+ Some licenses (like GPL) require derivative works to also be open-sourced, which can discourage enterprise participation. MIT doesn’t. It’s short, readable, and legally safe across jurisdictions.
+
+
+It matches Web3 ethos.
+
+ The Web3 standard thrives on composability. MIT’s permissiveness allows this architecture to merge freely with DeFi, DAO, and blockchain identity frameworks.
+
+
+
