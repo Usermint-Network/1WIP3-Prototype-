@@ -26,5 +26,5 @@ The proprietary services are the voice.
 
 And the UserMint Network is the orchestra conducting the new economy of trust.
 
-UserMint Network 
+
 
