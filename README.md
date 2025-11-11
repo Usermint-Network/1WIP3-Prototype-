@@ -1,85 +1,29 @@
-# 1WIP3-Prototype-
-Acronym for "One Web Identity Protocol for Web3 - pronounced "WIP-three" is a human-centric decentralized identity and notarization framework that integrates SBT (Soulbound Token) verification, biometric hashing, and cross-chain interoperability between Hedera, XRP Ledger, and Layer 1 ecosystems.
+# UserMint Network — 1WIP3 Prototype
 
-🧭 The “Open Core, Proprietary Edge” Model
-You open-source the infrastructure, but monetize the layers that make it usable, scalable, or compliant.
- Here’s how that looks for your architecture:
-Layer
-Status
-Revenue Logic
-Core Infrastructure (MVP) — Flask API, Docker, Terraform, DB
-Open Source (MIT)
-Freely available to all developers; builds reputation and network effect
-Cloud Deployment Templates — one-click VM / notarization node installers
-Proprietary SaaS
-Charge per deployment or per notarization event (like “pay-per-spin-up”)
-SBT Verification API — biometric & KYC hash proofs
-Tokenized Service
-Charge in SBT tokens or micro-fees per identity verification
-Cross-chain Settlement Gateway — XRPL ↔ Hedera bridge
-Transaction Fee
-Take 0.04% “UserMint Fee” on each liquidity settlement (already coded in Gradient 4)
-Governance / DAO Tier — on-chain scheduling, maintenance, and upgrades
-Membership / Staking
-Members stake to participate in governance; fees collected for proposals
-Custom Enterprise Integrations — for banks, regulators, or NGOs
-Consulting / Certification
-License your “Verified Node” standard for compliance or data notarization systems
+Elevator pitch
+UserMint is an open-core orchestration network that turns open source infrastructure into a revenue-generating, community-governed marketplace of trusted services.
 
-So the MIT license builds trust.
-Your edge services and validation network capture value.
+Quick links
+- Age of Participation: How UserMint Turns Open Source into Revenue — ./Age of Participation_ How UserMint Turns Open Source into Revenue.md
+- License: MIT (see LICENSE)
+- Contributing: CONTRIBUTING.md
+- Security: SECURITY.md
 
-🪙 Tokenized Incentive Model
-Because your system uses Hedera + XRPL + SBT:
-Mint your protocol token (e.g., UMT = UserMint Token).
-Used to pay notarization fees, spin up nodes, and issue verified certificates.
-Stake-to-verify model:
-Validators or auditors must stake UMT to certify notarizations or verify SBT identities.
-If they misbehave, their stake is slashed.
-Revenue pool split:
-70% of transaction fees → node operators
-20% → liquidity fund (cross-chain reserve)
-10% → treasury (protocol development fund)
-That treasury is what you, as founder, govern through DAO proposals and treasury releases.
+One-minute Quickstart
+1. Clone the repo:
+   git clone https://github.com/Usermint-Network/1WIP3-Prototype-.git
+2. View the core design and positioning document:
+   less "Age of Participation_ How UserMint Turns Open Source into Revenue.md"
 
-🏦 Enterprise-Grade Monetization
-Even open systems can attract big institutions under a service agreement model:
-Offering
-Description
-Example
-Private Network Deployment
-Dedicated UserMint node cluster with SLA and audit trail
-Government identity sandbox
-API Subscription
-Verified endpoint access with guaranteed uptime
-Fintech KYC automation API
-Custom Governance Layer
-Configure local DAO aligned with Torah-based celestial timing
-DAO hosting
-Compliance Certification
-“Certified SBT Oracle” audit stamp
-NGOs, enterprises, or law firms use this to validate on-chain IDs
+Accessibility statement
+We aim to make documentation accessible: semantic headings, clear language, and descriptive links. If you find an accessibility issue in docs or demos, please open an issue labeled "accessibility".
 
-UserMint is a service registry rather than just a code vendor.
+How to contribute
+See CONTRIBUTING.md for contribution guidelines, code of conduct, and how to sign the Developer Certificate of Origin (DCO) or CLA.
 
-🌍 Global Network Value Accrual
- Every open-source contributor increases the network’s total reach.
- Every notarization increases its global credibility.
- Every identity hash increases the network’s proof-of-humanity strength.
- The more it’s used, the higher the utility (and price) of your protocol token and notarization fees.
-So:
- → Open-source = mass trust and adoption
- → Token layer = ownership and profit
- → Service layer = continuous income
+Security
+If you discover a security vulnerability, please follow SECURITY.md.
 
-⚙️ Monetization Flow Summary
- Step 1: UserMint gives away the open core (MIT license).
- Step 2: Host the infrastructure orchestration (Terraform + Docker templates) as a paid SaaS.
- Step 3: Charges for verified API endpoints (compliance, liquidity, notarization).
- Step 4: Tokenize settlement fees and identities.
- Step 5: Build treasury through protocol usage and enterprise partnerships.
+License
+This project is MIT licensed. See LICENSE for details.
 
-💡 6. Tagline 
-“Open code, closed loop economics.”
-The world can run it.
-UserMint owns the registry, the validators, and the standard of truth.
